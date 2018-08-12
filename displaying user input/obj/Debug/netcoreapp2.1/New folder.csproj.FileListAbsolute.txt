@@ -1,0 +1,17 @@
+C:\Users\Andrew\Desktop\New folder\obj\Debug\netcoreapp2.1\New folder.csprojAssemblyReference.cache
+C:\Users\Andrew\Desktop\New folder\obj\Debug\netcoreapp2.1\New folder.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\Desktop\New folder\obj\Debug\netcoreapp2.1\New folder.AssemblyInfoInputs.cache
+C:\Users\Andrew\Desktop\New folder\obj\Debug\netcoreapp2.1\New folder.AssemblyInfo.cs
+C:\Users\Andrew\Desktop\New folder\bin\Debug\netcoreapp2.1\New folder.deps.json
+C:\Users\Andrew\Desktop\New folder\bin\Debug\netcoreapp2.1\New folder.runtimeconfig.json
+C:\Users\Andrew\Desktop\New folder\bin\Debug\netcoreapp2.1\New folder.runtimeconfig.dev.json
+C:\Users\Andrew\Desktop\New folder\bin\Debug\netcoreapp2.1\New folder.dll
+C:\Users\Andrew\Desktop\New folder\bin\Debug\netcoreapp2.1\New folder.pdb
+C:\Users\Andrew\Desktop\New folder\obj\Debug\netcoreapp2.1\New folder.dll
+C:\Users\Andrew\Desktop\New folder\obj\Debug\netcoreapp2.1\New folder.pdb
+C:\Users\Andrew\Desktop\displaying user input\obj\Debug\netcoreapp2.1\New folder.csprojAssemblyReference.cache
+C:\Users\Andrew\Desktop\displaying user input\obj\Debug\netcoreapp2.1\New folder.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\Desktop\displaying user input\obj\Debug\netcoreapp2.1\New folder.AssemblyInfoInputs.cache
+C:\Users\Andrew\Desktop\displaying user input\obj\Debug\netcoreapp2.1\New folder.AssemblyInfo.cs
+C:\Users\Andrew\Desktop\displaying user input\obj\Debug\netcoreapp2.1\New folder.dll
+C:\Users\Andrew\Desktop\displaying user input\obj\Debug\netcoreapp2.1\New folder.pdb
